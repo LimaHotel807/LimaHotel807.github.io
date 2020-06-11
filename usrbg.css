@@ -5,14 +5,6 @@
 }
 
 /* #000 = UNKNOWN DISCRIMINATOR */
-
-/*Lutz#0001*/
-
-[user_by_bdfdb*="269707833916915723"],
-[data-user-id*="269707833916915723"] {
-	--user-background: url('https://i.imgur.com/utVHvp9.png');
-}
-
 /*Tropical#4104 and Tropical2#1259*/
 
 [user_by_bdfdb*="254362351170617345"],
@@ -21,6 +13,7 @@
 [data-user-id*="365643222522920960"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
+
 
 /*Spectra#7698*/
 
